@@ -40,3 +40,10 @@ Once you have set up the project, you can run it locally using the following com
 This will start the development server, and you can view the application
 in your web browser at http://localhost:3000.
 
+## images
+![landig_pic](https://github.com/Sakshat2/Digital_Marketing_Website_1/assets/105922556/f9ad9b84-eaaf-4100-b85d-921a04fc59f1)
+
+
+![feactur2](https://github.com/Sakshat2/Digital_Marketing_Website_1/assets/105922556/bdd78a38-1eaa-4d1a-9aba-fa8c432e1cfd)
+![service-pg](https://github.com/Sakshat2/Digital_Marketing_Website_1/assets/105922556/7f5101bd-7917-403f-af85-94d63424efe7)
+![footer_pg](https://github.com/Sakshat2/Digital_Marketing_Website_1/assets/105922556/dfd81c10-1d49-4bdb-8a42-73153997b718)
